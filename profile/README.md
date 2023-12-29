@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The name of organization is objective as well, here you will find a lot of projects fully functinals, using Django and DRF (Django rest Framework)
+The name of organization is objective as well, here you will find a lot of projects fully functinals that you can use as template, using Django and DRF (Django rest Framework)
 
 Take a look bellow and be happy!
 
